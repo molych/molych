@@ -40,7 +40,7 @@ As a **Backend Developer** with **4+ years of experience**, I specialize in **PH
 
 
 ### 🏆 GitHub Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=molych)](https://github.com/molych/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=molych&theme=onedark)](https://github.com/molych/github-profile-trophy)
 
 
 ## 📫 Contact Me  
