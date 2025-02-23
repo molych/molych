@@ -40,8 +40,8 @@ As a **Backend Developer** with **4+ years of experience**, I specialize in **PH
 ### 🌟 Most Used Languages
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=molych&layout=compact&theme=dark&hide_border=true)
 
-### 🏆 GitHub Achievements
-![Achievements](https://github-profile-summary-cards.vercel.app/api/cards/achievements?username=molych&theme=solarized_dark)
+### 🏆 GitHub Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=molych)](https://github.com/molych/github-profile-trophy)
 
 
 ## 📫 Contact Me  
