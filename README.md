@@ -35,13 +35,10 @@ As a **Backend Developer** with **4+ years of experience**, I specialize in **PH
 
 ## 📈 GitHub Stats  
 
-<p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=molych&theme=dark&hide_border=true" />
-</p>
 
-<p align="right">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=molych&theme=dark&hide_border=true" />
+
 <img src="https://github-readme-stats.vercel.app/api?username=molych&show_icons=true&theme=dark&hide_border=true" />
-</p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=molych&theme=solarized_dark)
 ---
