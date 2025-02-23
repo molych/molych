@@ -33,12 +33,11 @@ As a **Backend Developer** with **4+ years of experience**, I specialize in **PH
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=molych&theme=light&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=molych&show_icons=true&theme=light&hide_border=true" alt="GitHub Stats" />
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=molych&layout=compact&theme=light&hide_border=true)
 </div>
 
 ---
 
-### 🌟 Most Used Languages
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=molych&layout=compact&theme=light&hide_border=true)
 
 ### 🏆 GitHub Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=molych)](https://github.com/molych/github-profile-trophy)
