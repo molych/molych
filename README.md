@@ -32,8 +32,8 @@ As a **Backend Developer** with **4+ years of experience**, I specialize in **PH
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![WebSockets](https://img.shields.io/badge/WebSockets-0078D7?style=for-the-badge&logo=websocket&logoColor=white)  
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)  
+![WebSockets](https://img.shields.io/badge/WebSockets-0078D7?style=flat&logo=websocket&logoColor=white)  
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)  
 
 ---
 
