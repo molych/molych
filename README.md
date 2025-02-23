@@ -13,7 +13,7 @@ As a **Backend Developer** with **4+ years of experience**, I specialize in **PH
 ### 💡 Core Skills  
 - **Backend Development**: PHP 7.2+, Laravel 7+  
 - **Frontend**: JavaScript (ES5, ES6), Vue 3, HTML5, CSS3  
-- **Database Management**: MySQL, PostgreSQL  
+- **Database Management**: MySQL
 - **Infrastructure**: Docker, Nginx, AWS (EC2, S3, Route 53)  
 - **Technologies**: WebSockets, Elasticsearch, Sentry, REST API, GitFlow  
 - **Testing**: Unit & Feature Tests  
@@ -28,20 +28,22 @@ As a **Backend Developer** with **4+ years of experience**, I specialize in **PH
 
 ---
 
-## 🎓 Education  
-📍 **Master’s Degree in Finance** – LNTU  
-
----
-
 ## 📈 GitHub Stats  
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=molych&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=molych&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=molych&theme=solarized_dark)
+</div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=molych&theme=dark&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=molych&show_icons=true&theme=dark&hide_border=true" />
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=molych&theme=solarized_dark)
 ---
+
+### 🌟 Most Used Languages
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=molych&layout=compact&theme=dark&hide_border=true)
+
+### 🏆 GitHub Achievements
+![Achievements](https://github-profile-summary-cards.vercel.app/api/cards/achievements?username=molych&theme=solarized_dark)
+
 
 ## 📫 Contact Me  
 
